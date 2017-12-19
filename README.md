@@ -1,3 +1,4 @@
 # tomake
-- version control for creative coding (utils on top of git for snapshotting, browsing) a tree of sketches (wip)
-- first order retreivability post (✓)
+
+- gnsap blog post (✓)
+- plot a 2018 calendar, maybe with output of gcal?
