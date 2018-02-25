@@ -1,7 +1,7 @@
 # tomake
 
 - gnsap blog post
-- two one handed minigames for defence and offence, health bar battle.
- (maybe - fast, hand-generated randomness evaluator?)
-- three questions to ask when you fix a bug
--alternate tuning guitar language learning
+- alternate tuning guitar language learning    (i only listen to the mountain goats)
+- glslify blog post
+- regl audio visualization starter pack
+- regl webcame effect starter pack
