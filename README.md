@@ -5,3 +5,55 @@
 - glslify blog post
 - tetris where you have to leave negative space of certain sizes
 - garbage collection algorithm simulation/visualization
+
+
+GALLERY
+======
+DOOM WAD 
+MEME GALLERY
+WALKING SIMULATOR
+
+MUSIC GENRE MAP
+(EDM MAP)
+PLAYPEN
+FLICKGAME
+POWERPOINT
+VISEO
+SECOND LIFE
+
+MUSIC JOURNALISM
+SPACE FUNERAL
+=====
+
+Fungus Game
+====
+
+
+Nutrients:
+Moisture
+Sugar
+Nitrogen
+
+
+Substrates:
+Dirt
+Stone
+Water
+
+Plants:
+kelp
+grass
+flower
+vine
+
+Fungus:
+mycilium
+puff-cap
+
+
+Animals:
+worm
+ant
+snail
+shrimps
+
