@@ -24,6 +24,9 @@ STRANGETHINK
 
 MUSIC JOURNALISM
 SPACE FUNERAL
+John Bois
+Fighting in the age of loniless 
+
 =====
 
 Fungus Game
