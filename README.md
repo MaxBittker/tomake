@@ -5,7 +5,7 @@
 - glslify blog post
 - tetris where you have to leave negative space of certain sizes
 - garbage collection algorithm simulation/visualization
-
+- sandspiel blog post
 
 GALLERY
 ======
