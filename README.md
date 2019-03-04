@@ -1,6 +1,14 @@
 # tomake
 - utility-PI: hardware+software package image designed for maximum utility in an unknown future. zipped wikipedia + communication tools + replaceable parts + power source
 interoperable, standard compute unit, mesh network, ak47, pico8
+speculative technology 
+
+URSULA K. LE GUIN
+ redefines technology and science as primarily cultural carrier bag rather than weapon of domination, one pleasanr
+side effect is that science fiction can be seen as a far less rigid, narrow
+field, not necessarily Promethean or apocalyptic at all
+
+http://www.trabal.org/texts/pdf/LeGuin.pdf
 
 - gnsap blog post
 - alternate tuning guitar language learning    (i only listen to the mountain goats)
