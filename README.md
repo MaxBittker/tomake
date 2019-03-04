@@ -1,4 +1,5 @@
 # tomake
+- utility-PI: hardware+software package image designed for maximum utility in an unknown future. zipped wikipedia + communication tools + replaceable parts + power source
 
 - gnsap blog post
 - alternate tuning guitar language learning    (i only listen to the mountain goats)
