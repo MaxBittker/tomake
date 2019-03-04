@@ -4,8 +4,9 @@ interoperable, standard compute unit, mesh network, ak47, pico8
 speculative technology 
 
 URSULA K. LE GUIN http://www.trabal.org/texts/pdf/LeGuin.pdf
+... unexamined shorthand standing for the "hard" sciences and high technology founded upon continuous economic growth),
 
- redefines technology and science as primarily cultural carrier bag rather than weapon of domination, one pleasanr
+ ... redefines technology and science as primarily cultural carrier bag rather than weapon of domination, one pleasant
 side effect is that science fiction can be seen as a far less rigid, narrow
 field, not necessarily Promethean or apocalyptic at all
 
