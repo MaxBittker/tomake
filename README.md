@@ -3,12 +3,16 @@
 interoperable, standard compute unit, mesh network, ak47, pico8
 speculative technology 
 
-URSULA K. LE GUIN
+URSULA K. LE GUIN http://www.trabal.org/texts/pdf/LeGuin.pdf
+
  redefines technology and science as primarily cultural carrier bag rather than weapon of domination, one pleasanr
 side effect is that science fiction can be seen as a far less rigid, narrow
 field, not necessarily Promethean or apocalyptic at all
 
-http://www.trabal.org/texts/pdf/LeGuin.pdf
+one laptop per child / chumby (failed?)
+
+cuban sneakernet 
+
 
 - gnsap blog post
 - alternate tuning guitar language learning    (i only listen to the mountain goats)
