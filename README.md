@@ -1,4 +1,6 @@
 # tomake
+- diffusion based soft-boids (like slime mold but with dx & dy pheremones) 
+
 - utility-PI: hardware+software package image designed for maximum utility in an unknown future. zipped wikipedia + communication tools + replaceable parts + power source
 interoperable, standard compute unit, mesh network, ak47, pico8
 speculative technology 
