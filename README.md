@@ -1,5 +1,7 @@
 # tomake
 
+- VISUAL LISP lisp program execution visualizer, think TIS-100
+
 - AUTOHOTKEY + turtle "cartoon hand" moving stuff around your computer, scriptable/recordable buddy
 
 
