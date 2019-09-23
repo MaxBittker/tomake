@@ -1,4 +1,6 @@
 # tomake
+- phased/synced camera array video composite app
+https://i.pinimg.com/originals/9f/09/c0/9f09c0f69b2800a6c740ce99efce7fa6.jpg
 
 - VISUAL LISP lisp program execution visualizer, think TIS-100
 
