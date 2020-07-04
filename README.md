@@ -1,4 +1,8 @@
 # tomake
+- scrape images from w3c spec
+https://www.w3.org/TR/SVG2/pservers.html#RadialGradientNotes
+
+
 - emotional development 
 
 - phased/synced camera array video composite app
