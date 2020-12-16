@@ -1,4 +1,7 @@
 # tomake
+- retrofuturist css : wordpress themes , windows xp 
+- music quiz 
+- game keys luckshare 
 - scrape images from w3c spec
 https://www.w3.org/TR/SVG2/pservers.html#RadialGradientNotes
 
